@@ -1,0 +1,5 @@
+.playwright-mcp/
+blueprint/
+.tools/
+l9-viewer-verified.png
+output/*
